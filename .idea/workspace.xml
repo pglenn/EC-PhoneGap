@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a764423-17b1-4051-8572-6db9c3a34721" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/www/index.html" afterPath="$PROJECT_DIR$/www/index_dr.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/index.html" afterPath="$PROJECT_DIR$/www/index.html" />
     </list>
     <ignored path="EC-PhoneGap.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -56,7 +55,7 @@
       <file leaf-file-name="index_ed.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/index_ed.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="38" column="0" selection-start="1501" selection-end="1848" vertical-scroll-proportion="-24.846153" vertical-offset="0" max-vertical-offset="918">
+            <state line="2" column="0" selection-start="14" selection-end="114" vertical-scroll-proportion="-1.3076923" vertical-offset="0" max-vertical-offset="918">
               <folding />
             </state>
           </provider>
@@ -92,7 +91,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/www/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="7" selection-start="104" selection-end="104" vertical-scroll-proportion="0.15632184" vertical-offset="0" max-vertical-offset="870">
+            <state line="7" column="0" selection-start="146" selection-end="146" vertical-scroll-proportion="0.1367816" vertical-offset="0" max-vertical-offset="870">
               <folding />
             </state>
           </provider>
@@ -410,14 +409,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/www/index_ed.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="0" selection-start="1501" selection-end="1848" vertical-scroll-proportion="-24.846153" vertical-offset="0" max-vertical-offset="918">
+        <state line="2" column="0" selection-start="14" selection-end="114" vertical-scroll-proportion="-1.3076923" vertical-offset="0" max-vertical-offset="918">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="7" selection-start="104" selection-end="104" vertical-scroll-proportion="0.15632184" vertical-offset="0" max-vertical-offset="870">
+        <state line="7" column="0" selection-start="146" selection-end="146" vertical-scroll-proportion="0.1367816" vertical-offset="0" max-vertical-offset="870">
           <folding />
         </state>
       </provider>
