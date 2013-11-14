@@ -11,6 +11,12 @@
     <div class="scroll"><ul class='employee-list'></ul></div>
 </script>
 
+<script id="employee-li-tpl" type="text/x-handlebars-template">
+    {{#.}}
+    <li><a href="#employees/{{this.id}}">{{this.firstName}} {{this.lastName}}<br/>{{this.title}}</a></li>
+    {{/.}}
+</script>
+
 Simple Body with scripts added back in.  Maybe it was a style issue.
 
 <script src="phonegap.js"></script>
