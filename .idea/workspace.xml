@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a764423-17b1-4051-8572-6db9c3a34721" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/EmployeeView.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/HomeView.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/main.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/www/index.html" afterPath="$PROJECT_DIR$/www/index_orig.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/config.xml" afterPath="$PROJECT_DIR$/www/config.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/www/index.html" afterPath="$PROJECT_DIR$/www/index_ed.html" />
+      <change type="MOVED" beforePath="C:\Users\pglenn\Documents\GitHub\EC-PhoneGap\www\index_orig.html" afterPath="$PROJECT_DIR$/www/index.html" />
     </list>
     <ignored path="EC-PhoneGap.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -56,8 +53,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/index.html">
+      <file leaf-file-name="index_ed.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/index_ed.html">
           <provider selected="true" editor-type-id="text-editor">
             <state line="34" column="13" selection-start="1478" selection-end="1478" vertical-scroll-proportion="-22.23077" vertical-offset="0" max-vertical-offset="918">
               <folding />
@@ -277,7 +274,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -310,7 +307,7 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/www/index_orig.html">
+    <entry file="file://$PROJECT_DIR$/www/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="42" column="0" selection-start="1773" selection-end="1773" vertical-scroll-proportion="-27.461538" vertical-offset="0" max-vertical-offset="816">
           <folding />
@@ -321,7 +318,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="935">
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -330,7 +327,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1241">
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -394,7 +391,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/index.html">
+    <entry file="file://$PROJECT_DIR$/www/index_ed.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="34" column="13" selection-start="1478" selection-end="1478" vertical-scroll-proportion="-22.23077" vertical-offset="0" max-vertical-offset="918">
           <folding />
