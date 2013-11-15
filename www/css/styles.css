@@ -195,6 +195,10 @@ li>a.tappable-active {
     background-color: #4286f5;
 }
 
+android.button{
+    visibility:hidden;
+}
+
 .button {
 	-moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
 	-webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
@@ -212,10 +216,6 @@ li>a.tappable-active {
 	font-size:14px;
 	text-decoration:none;
 	text-shadow:1px 1px 0px #ffffff;
-}
-
-android.button{
-    visibility:hidden;
 }
 
 .button:hover {
