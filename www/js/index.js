@@ -33,7 +33,17 @@ var app = {
     // The scope of 'this' is the event. In order to call the 'receivedEvent'
     // function, we must explicity call 'app.receivedEvent(...);'
     onDeviceReady: function() {
-        app.receivedEvent('deviceready');
+//        app.receivedEvent('deviceready');
+        alert('onDeviceReady');
+        document.body.className = device.platform.toLowerCase();
+        var theFormFactor = "phone";
+        if (device.platform.indexOf("iPad")>-1 ||
+            Math.max(window.screen.width,
+                window.screen.height) >= 1024 )
+        {
+            theFormFactor = "tablet";
+        }
+        document.body.className += " " + theFormFactor;
     },
     // Update DOM on a Received Event
     receivedEvent: function(id) {
