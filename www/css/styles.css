@@ -195,9 +195,9 @@ li>a.tappable-active {
     background-color: #4286f5;
 }
 
-.android.button{
-    visibility:hidden;
-}
+/*.android.button{*/
+    /*visibility:hidden;*/
+/*}*/
 
 .button {
 	-moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
@@ -247,3 +247,17 @@ h2 {
     width:100px;
     height:100px;
 }
+
+ul li img {
+    float:left;
+    margin:5px;
+    width:45px;
+    height:45px;
+}
+
+/*.employee-li-image {*/
+    /*float:left;*/
+    /*margin:5px;*/
+    /*width:45px;*/
+    /*height:45px;*/
+/*}*/

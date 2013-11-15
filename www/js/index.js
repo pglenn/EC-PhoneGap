@@ -34,7 +34,7 @@ var app2 = {
     // function, we must explicity call 'app.receivedEvent(...);'
     onDeviceReady: function() {
 //        app.receivedEvent('deviceready');
-        alert('onDeviceReady');
+//        alert('onDeviceReady');
         document.body.className = device.platform.toLowerCase();
 //        var theFormFactor = "phone";
 //        if (device.platform.indexOf("iPad")>-1 ||
@@ -44,7 +44,7 @@ var app2 = {
 //            theFormFactor = "tablet";
 //        }
 //        document.body.className += " " + theFormFactor;
-        alert(document.body.className);
+//        alert(document.body.className);
     },
     // Update DOM on a Received Event
     receivedEvent: function(id) {
