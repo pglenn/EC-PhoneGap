@@ -36,14 +36,14 @@ var app2 = {
 //        app.receivedEvent('deviceready');
         alert('onDeviceReady');
         document.body.className = device.platform.toLowerCase();
-        var theFormFactor = "phone";
-        if (device.platform.indexOf("iPad")>-1 ||
-            Math.max(window.screen.width,
-                window.screen.height) >= 1024 )
-        {
-            theFormFactor = "tablet";
-        }
-        document.body.className += " " + theFormFactor;
+//        var theFormFactor = "phone";
+//        if (device.platform.indexOf("iPad")>-1 ||
+//            Math.max(window.screen.width,
+//                window.screen.height) >= 1024 )
+//        {
+//            theFormFactor = "tablet";
+//        }
+//        document.body.className += " " + theFormFactor;
         alert(document.body.className);
     },
     // Update DOM on a Received Event
