@@ -44,6 +44,7 @@ var app2 = {
             theFormFactor = "tablet";
         }
         document.body.className += " " + theFormFactor;
+        alert(document.body.className);
     },
     // Update DOM on a Received Event
     receivedEvent: function(id) {

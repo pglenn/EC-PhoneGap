@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a764423-17b1-4051-8572-6db9c3a34721" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/index.html" afterPath="$PROJECT_DIR$/www/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/css/styles.css" afterPath="$PROJECT_DIR$/www/css/styles.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/js/index.js" afterPath="$PROJECT_DIR$/www/js/index.js" />
     </list>
     <ignored path="EC-PhoneGap.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -72,10 +70,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="0" selection-start="1524" selection-end="1524" vertical-scroll-proportion="0.53593946" vertical-offset="204" max-vertical-offset="1003">
+            <state line="37" column="0" selection-start="1524" selection-end="1524" vertical-scroll-proportion="-16.346153" vertical-offset="204" max-vertical-offset="1003">
               <folding>
                 <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -83,10 +81,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/www/js/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="8" selection-start="814" selection-end="814" vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="1105">
+            <state line="46" column="39" selection-start="1875" selection-end="1875" vertical-scroll-proportion="0.6019536" vertical-offset="0" max-vertical-offset="833">
               <folding />
             </state>
           </provider>
@@ -140,9 +138,9 @@
         <option value="$PROJECT_DIR$/www/config.xml" />
         <option value="$PROJECT_DIR$/merges/css/styles.css" />
         <option value="$PROJECT_DIR$/merges/winphone/css/styles.css" />
-        <option value="$PROJECT_DIR$/www/js/index.js" />
         <option value="$PROJECT_DIR$/www/css/styles.css" />
         <option value="$PROJECT_DIR$/www/index.html" />
+        <option value="$PROJECT_DIR$/www/js/index.js" />
       </list>
     </option>
   </component>
@@ -439,13 +437,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/js/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="8" selection-start="814" selection-end="814" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="816">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/www/index_dr.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="37" column="0" selection-start="1665" selection-end="1752" vertical-scroll-proportion="0.0" vertical-offset="629" max-vertical-offset="816">
@@ -462,10 +453,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/www/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="0" selection-start="1524" selection-end="1524" vertical-scroll-proportion="0.53593946" vertical-offset="204" max-vertical-offset="1003">
+        <state line="37" column="0" selection-start="1524" selection-end="1524" vertical-scroll-proportion="-16.346153" vertical-offset="204" max-vertical-offset="1003">
           <folding>
             <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="46" column="39" selection-start="1875" selection-end="1875" vertical-scroll-proportion="0.6019536" vertical-offset="0" max-vertical-offset="833">
+          <folding />
         </state>
       </provider>
     </entry>
