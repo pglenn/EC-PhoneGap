@@ -195,7 +195,7 @@ li>a.tappable-active {
     background-color: #4286f5;
 }
 
-android.button{
+.android.button{
     visibility:hidden;
 }
 
