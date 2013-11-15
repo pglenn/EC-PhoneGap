@@ -13,7 +13,8 @@
 
 <script id="employee-li-tpl" type="text/x-handlebars-template">
     {{#.}}
-    <li><div><img class='employee-li-image' src='img/{{firstName}}_{{lastName}}.jpg'/></div><a href="#employees/{{this.id}}">{{this.firstName}} {{this.lastName}}<br/>{{this.title}}</a></li>
+    <li><a href="#employees/{{this.id}}">{{this.firstName}} {{this.lastName}}<br/>{{this.title}}</a></li>
+    <!--<li><div><img class='employee-li-image' src='img/{{firstName}}_{{lastName}}.jpg'/></div><a href="#employees/{{this.id}}">{{this.firstName}} {{this.lastName}}<br/>{{this.title}}</a></li>-->
     {{/.}}
 </script>
 

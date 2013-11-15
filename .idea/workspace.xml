@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="6a764423-17b1-4051-8572-6db9c3a34721" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/index.html" afterPath="$PROJECT_DIR$/www/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/js/index.js" afterPath="$PROJECT_DIR$/www/js/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/css/styles.css" afterPath="$PROJECT_DIR$/www/css/styles.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="EC-PhoneGap.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -55,19 +52,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="styles.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="styles.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/css/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="197" column="0" selection-start="3449" selection-end="3498" vertical-scroll-proportion="0.50183153" vertical-offset="2938" max-vertical-offset="4556">
+            <state line="197" column="0" selection-start="3449" selection-end="3498" vertical-scroll-proportion="0.0" vertical-offset="2938" max-vertical-offset="4556">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/www/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="20" selection-start="864" selection-end="864" vertical-scroll-proportion="-13.730769" vertical-offset="0" max-vertical-offset="1003">
+            <state line="15" column="8" selection-start="464" selection-end="464" vertical-scroll-proportion="0.32692307" vertical-offset="0" max-vertical-offset="1020">
               <folding>
                 <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -143,8 +140,8 @@
         <option value="$PROJECT_DIR$/merges/winphone/css/styles.css" />
         <option value="$PROJECT_DIR$/www/js/HomeView.js" />
         <option value="$PROJECT_DIR$/www/js/index.js" />
-        <option value="$PROJECT_DIR$/www/index.html" />
         <option value="$PROJECT_DIR$/www/css/styles.css" />
+        <option value="$PROJECT_DIR$/www/index.html" />
       </list>
     </option>
   </component>
@@ -457,19 +454,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/index.html">
+    <entry file="file://$PROJECT_DIR$/www/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="20" selection-start="864" selection-end="864" vertical-scroll-proportion="-13.730769" vertical-offset="0" max-vertical-offset="1003">
-          <folding>
-            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state line="197" column="0" selection-start="3449" selection-end="3498" vertical-scroll-proportion="0.0" vertical-offset="2938" max-vertical-offset="4556">
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/css/styles.css">
+    <entry file="file://$PROJECT_DIR$/www/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="197" column="0" selection-start="3449" selection-end="3498" vertical-scroll-proportion="0.50183153" vertical-offset="2938" max-vertical-offset="4556">
-          <folding />
+        <state line="15" column="8" selection-start="464" selection-end="464" vertical-scroll-proportion="0.32692307" vertical-offset="0" max-vertical-offset="1020">
+          <folding>
+            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
